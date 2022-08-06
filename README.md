@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @orennitzan
+- 👀 I’m interested in Angular, Node.js, Typescript and js as a whole, CI/CD, Docker, Git Actions, AWS (Need to learn most of it yet). Also dot net core api, CPP, Backend and more.
+- 📫 How to reach me: oren.nitzan@gmail.com, +972506321586
